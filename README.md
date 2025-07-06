@@ -20,11 +20,7 @@ This is a simple and visually creative webpage designed using *HTML* and *CSS*. 
 ---
 
 ## 📁 Project Structure
-project-folder/ │ ├──
-index.html # Main HTML page 
-├── style.css         
-# External CSS styling └── README.md        
-# Project description (this file)
+project-folder/ │ ├── index.html # Main HTML page ├── style.css         # External CSS styling └── README.md        # Project description (this file)
 
 
 ---
