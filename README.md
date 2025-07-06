@@ -20,15 +20,32 @@ This is a simple and visually creative webpage designed using *HTML* and *CSS*. 
 ---
 
 ## 📁 Project Structure
-project-folder/ │ ├── index.html        # Main HTML page ├── style.css         # External CSS styling └── README.md         # Project description (this file)
+project-folder/ │ ├──
+index.html # Main HTML page 
+├── style.css         
+# External CSS styling └── README.md        
+# Project description (this file)
 
-⛏️Technologies Used
+
+---
+
+##⛏️Technologies Used
+
+
 HTML5
 CSS3
 
-🙌Acknowledgements
+---
+
+##🙌Acknowledgements
+
+
 Designed as part of my intership with Cognifyz Technologies
 
-✨Author
+---
+
+##✨Author
+
+
 Richa Chaudhary
 https://www.linkedin.com/in/richa-chaudhary-360b8a315
